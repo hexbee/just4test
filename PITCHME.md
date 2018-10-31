@@ -12,4 +12,19 @@ An application architecture for React
 
 ---
 
+### Show the Code
+```c++
+#include <iostream>
+
+int main() {
+    std::cout << "Hello C++ !" << std::endl;
+    return 0;
+}
+
+// This is a test file for cpp code.
+
+```
+
+---
+
 ![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
