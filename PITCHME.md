@@ -24,6 +24,11 @@ int main() {
 // This is a test file for cpp code.
 
 ```
+---
+
+### Show the picture
+
+![wsj](wsj.jpg)
 
 ---
 
